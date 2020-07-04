@@ -1,0 +1,131 @@
+*{padding: 0
+	margin:0;
+    box-sizing: border-box;
+ box-sizing: border-box;
+  box-sizing: border-box;}
+  .header{background: #2C3E50;
+  			padding: 15px 0;}
+   .navbar-brand {font-family: sans-serif;
+   				 font-weight: 600;
+   				 color: #fff;
+   				 padding-top: 10px;}
+ .navbar-brand:hover{color:#fff;}
+.nav-item {padding-right: 20px;}
+
+    a{	font-family: sans-serif;
+    	font-weight: 500;
+    	color: #fff;
+    	font-size: 18px;
+    	}
+  .head-section{padding: 100px;
+  				background-color:#1ABC9C;
+  				text-align:center;}
+.text img{width:20%;
+			margin-bottom:30px;}
+			.text h1{color: #fff;
+						font-size: 65px;
+						font-weight: 600;
+						font-family: sans-serif;}
+	.divider{text-align: : center;
+			display: flex;
+			flex:row;
+			justify-content: center;}
+	.div-line{
+	width: 150px;
+    height: 5px;
+    background-color: white;
+   
+    border-radius: 20px;}
+    .div-img{color:white;
+    			font-size: 30px;}
+    			.fa{    font: normal normal normal 14px/1 FontAwesome;
+    					display: inline-block;
+    					
+    					font-size: inherit;
+    					text-rendering: auto;}
+
+
+    					p{color: white;
+    						font-weight: 500;
+    						font-size: 30px;
+    						font-family: sans-serif;}
+    .protfolio{padding: 80px 0;
+    			text-align: center;}
+    .protfolio h1{color: #2C3E50;}
+
+    .div-line2{
+	width: 150px;
+    height: 5px;
+    background-color: #2C3E50;}
+    .radius img{border-radius: 10px;
+    			background: #2C3E50;
+    			opacity: 1;
+    			width: 100%;}
+.about{background-color: #1ABC9C;
+			padding: 100px;}
+   .about h1{text-align: center;
+   				font-size: 40px;
+   				font-weight: 500;
+   				color: white;
+   				text-transform: uppercase;
+   				font-family: sans-serif;}
+.about p{color:#fff;
+		font-size: 21px;
+		padding-left: 15px;
+		padding-top: 10px;
+		padding-bottom: 30px;}
+
+.about button{padding: 15px 30px;
+				margin: auto;
+				background: none !important;
+				border: 1px solid white;
+				color: white;
+				display: block;
+			}
+			.about button:hover{background: white;
+								color:black;
+								border: none;}
+
+
+
+		.form-section{padding: 100px 0;}
+		.form-section h1{font-size: 40px;
+						color:#2C3E50;
+						font-weight: 500px;
+						text-align: center;
+						text-transform: uppercase;}
+	.contact-form form input{font-size: 21px;
+							font-weight: 600;
+							font-family: tahoma;}
+							.contact-form form textarea{font-size:21px;
+														font-weight: 600;
+														font-family: tahoma; }
+.fotar-one{padding: 100px 0;
+			background-color: #2C3E50;
+			color: white;}
+			.fotar-container h2{font-size: 26px;
+								text-transform: uppercase;
+								font-family: sans-serif;
+								padding-bottom: 35px;
+								font-weight: 600;}
+			.fotar-container p {font-size: 18px;
+								font-family: sans-serif;
+								padding: 10px;
+								font-weight: 500;}
+		.fotar-container a{text-decoration: none;
+							color:#1abc9c;;}
+							.fotar-container a:hover{color: orange;}
+	.fotar-container i{padding: 15px;
+						border:2px solid white;
+						border-radius: 100%;
+						margin: 0 5px;
+						color:white;}
+.last-fotar{padding: 30px 0;
+			background-color: #1A252F;}
+.copy-right{color: white;
+				text-align: center;}
+
+.navbar a:hover{color:#1ABC9C;}
+
+
+	
